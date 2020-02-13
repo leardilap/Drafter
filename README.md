@@ -14,4 +14,3 @@
 - battery
 - solar cell
 - circuit to charge battery
--  

@@ -15,4 +15,5 @@
 - solar cell
 - circuit to charge battery
 - have stored in the uSD [musicforprogramming](https://musicforprogramming.net) or similar to play music tracks which help in concentration
-  - this requires headphone jack and sound output circuit
+- this requires headphone jack and sound output circuit
+- 3D printed keyboard + [PCB generator](http://kbpcb.mrkeebs.com/)

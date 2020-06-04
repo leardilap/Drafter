@@ -1,6 +1,6 @@
 # drafter
 
-# main components
+# Idea
 - any usb keyboard -> transparent forward to PC as well
 - [e-ink screen x3](https://www.exp-tech.de/displays/e-paper-e-ink/8887/waveshare-2.9-e-ink-raw-display-panel-three-color-296x128?c=1424)
 - tinyFPGA-EX
@@ -16,8 +16,21 @@
 - circuit to charge battery
 - have stored in the uSD [musicforprogramming](https://musicforprogramming.net) or similar to play music tracks which help in concentration
 - this requires headphone jack and sound output circuit
-- 3D printed keyboard + [PCB generator](http://kbpcb.mrkeebs.com/) [layout generator](http://www.keyboard-layout-editor.com/)
 
 
 # Inspiration / Base
-- https://ultimatehackingkeyboard.com
+- [ultimatehackingkeyboard](https://ultimatehackingkeyboard.com)
+- [Keyboard layout generator](http://www.keyboard-layout-editor.com/)
+- [MrKeebs PCB generator](http://kbpcb.mrkeebs.com/)
+
+# Phase1
+- Microcontroller based keyboard
+- USB-C 2.0 
+
+# Phase2
+- Bluetooth and USB-C 2.0
+- Microcontroller based
+- Battery
+- uSD card to store info when 
+# Phase3
+- 

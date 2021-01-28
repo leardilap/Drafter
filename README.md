@@ -4,6 +4,7 @@
 - any usb keyboard -> transparent forward to PC as well
 - [e-ink screen x3](https://www.exp-tech.de/displays/e-paper-e-ink/8887/waveshare-2.9-e-ink-raw-display-panel-three-color-296x128?c=1424)
 - tinyFPGA-EX
+- [ER-TFT0784-1 IPS TFT IoT LCD Display 1280x400 MIPI](https://www.buydisplay.com/7-84-inch-bar-style-ips-tft-iot-lcd-display-1280x400-mipi-for-car-monitor)
 - [contition circuits to make the screen work](https://www.adafruit.com/product/4224)
 - 3d printed case
 - uSD card to save files -> in tinyFPGA-EX already, should be visible from the PC to copy and edit the files later on
